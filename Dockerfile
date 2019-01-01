@@ -18,7 +18,7 @@ EXP_DATE=01-Jan-2050\n\
 HOSTID=$HOSTID\n\
 ISSUER=root\n\
 ISSUED=$ISSUED\n\
-LICENSE_INFO1=PerFW;3;test;12345678\n\
+LICENSE_INFO1=PerFW;999;test;12345678\n\
 LICENSE_INFO2=Core;Optimization;Risk\n\
 SIGN=12345678" > test.lic;\
 cat test.lic;\
